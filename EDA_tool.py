@@ -35,6 +35,6 @@ if uploaded_file is not None:
     
     report_html = report.to_html()
    
-    components.html(report_html, width=500,height=1000, scrolling=True)
+    components.html(report_html, width=650,height=1000, scrolling=True)
 else:
     st.write("Please upload a CSV file to get started.")
