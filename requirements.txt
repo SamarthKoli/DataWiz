@@ -1,4 +1,4 @@
-pandas==2.0.3
-streamlit==1.25.0
-numpy==1.26.0
-ydata-profiling==4.5.0  # Replaces pandas-profiling
+pandas
+streamlit
+numpy
+ydata-profiling
